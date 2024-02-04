@@ -1,0 +1,183 @@
+/* header */
+body {
+    font-family: 'Bitter', serif !important;
+}
+
+.header-top {
+    background-color: #49596b;
+}
+
+.header-top i,
+span {
+    margin-left: 10px;
+}
+
+.icons {
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    margin-left: 20px;
+    align-items: center;
+}
+
+.icons i {
+    color: #fff;
+}
+
+/* nav */
+.navbar-brand {
+    color: #445263 !important;
+    font-size: 32px;
+}
+
+.nav-link {
+    font-family: 'PT Sans', sans-serif !important;
+    font-size: 18px;
+    font-weight: 400;
+    color: #445263;
+    margin-left: 25px;
+}
+
+.head-para {
+    font-size: 15px;
+}
+
+#banner {
+    background: url(./image/banner-image.jpg);
+    height: 500px;
+    background-size: cover;
+}
+
+.banner-content a {
+    text-decoration: none;
+}
+
+.card-heading h1 {
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.ibox {
+    overflow: hidden;
+}
+
+.cardbox img:hover {
+    transform: scale(1.4);
+    transition: all 1.1s linear;
+}
+
+#about-section {
+    height: 400px;
+}
+
+.video {
+    width: 250px;
+    height: 300px;
+    /* margin-left:80px; */
+
+}
+
+.about-content a {
+    text-decoration: none;
+}
+
+.about-video {
+    margin-left: 0px;
+}
+
+.courses {
+    background-color: #3c628f;
+    height: 300px;
+    margin-top: 15px;
+}
+.courses-2 {
+    background-color: #3c628f;
+    height: 150px
+
+}
+.course-head {
+    font-size: 40px;
+    color: #fff;
+}
+
+.courses p {
+    font-size: 20px;
+    color: #fff;
+}
+
+.courses a {
+    text-decoration: none;
+
+}
+
+#testimonials {
+    margin-top: 15px;
+    height: 700px;
+    background-image: url(./image/h14.jpeg);
+    background-size: 100% 100%;
+}
+
+.testimoninal-head {
+    font-size: 56px;
+}
+
+.testimonial-box {
+    width: 1000px;
+    height: 300px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3c628f !important;
+}
+
+.test-img {
+    width: 200px;
+    height: 200px;
+}
+
+.testimonial-box img {
+    border-radius: 50% !important;
+    padding: 10px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.inverted-img {
+    width: 55px;
+    height: 30px;
+
+}
+
+#testimonial-heading {
+    color: rgb(167, 157, 157);
+}
+
+.testimoninal-text {
+    line-height: 2;
+    padding-right: 30px;
+    margin-top: 50px;
+
+}
+
+.testimoninals-name {
+    color: #49596b;
+}
+
+
+/* .apply {
+    height: auto;
+    background: #49596b;
+    
+
+} */
+
+.apply-button {
+    padding: 20px 40px;
+}
+.footer-content{
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

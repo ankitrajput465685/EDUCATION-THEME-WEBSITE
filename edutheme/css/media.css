@@ -1,0 +1,9 @@
+@media (max-width:600px) {
+    .social-icon-box {
+        justify-content: center !important;
+        padding-top: 0 !important;
+    }
+    .top-left-details{
+        text-align: center !important;
+    }
+}

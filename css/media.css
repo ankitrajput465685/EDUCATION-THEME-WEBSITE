@@ -1,0 +1,51 @@
+@media (max-width:600px) {
+    .social-icon-box {
+        justify-content: center !important;
+        padding-top: 0 !important;
+    }
+
+    .top-left-details {
+        text-align: center !important;
+    }
+
+    #banner {
+        height: 720px;
+    }
+
+    .banner-content {
+        margin-left: 0;
+
+    }
+
+    .banner-content {
+        margin-left: 0;
+    }
+
+    .banner-content h1 {
+        font-size: 40px;
+        font-weight: 1000;
+    }
+    #about-section{
+        height: auto;
+    }
+
+    .about-content {
+        flex-direction: column !important;
+    }
+
+    .box {
+        margin-top: 20px;
+    }
+
+    .apply-section {
+        margin-top: 250px;
+    }
+    .courses {
+        height: auto;
+    }
+    .courses a{
+    margin-bottom: 10px;
+    }
+
+
+}

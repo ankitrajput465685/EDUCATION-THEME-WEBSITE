@@ -1,0 +1,33 @@
+/* header */
+body{
+    font-family: 'Bitter', serif !important;
+}
+.header-top{
+    background-color: #49596b;
+}
+.header-top i,span{
+    margin-left: 10px;
+}
+.icons{
+    width: 30px; 
+    height: 30px;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    margin-left: 10px;   
+    align-items: center;
+}
+.icons i{
+    color: #fff;
+}
+/* nav */
+.navbar-brand{
+    color: #445263 !important;
+    font-size: 32px;
+}
+.nav-link{
+    font-family: 'PT Sans', sans-serif !important;
+    font-size: 18px;
+    font-weight: 400;
+    color: #445263;
+}
